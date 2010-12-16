@@ -1,0 +1,50 @@
+= ripltools
+
+This is a meta gem which installs some useful {ripl}[https://github.com/cldwalker/ripl] plugins for a nice-to-use general purpose _ripl_.
+
+== Setup
+
+  gem install ripltools
+  
+== Usage
+To use it, put the following in your <tt>~/.riplrc</tt> file (this file is loaded every time you start _ripl_):
+
+  require 'ripltools'
+
+If it does not exist, just create a new one.
+
+You cannot modify the loaded plugins. If you want to change them, copy the source of this gem and paste it in your <tt>.riplrc</tt>.
+
+Alternatively, you can use ripltools to easily install the plugins, but require manually the ones you want.
+
+=== Irbtools
+The {irbtools}[https://github.com/janlelis/irbtools] gem is compatible with _ripl_ and _ripltools_. Ripltools only includes _ripl_-specific gems, while _irbtools_ includes general "Ruby console features" (e.g. {interactive_editor}[https://github.com/jberkel/interactive_editor]).
+
+=== Included gems
+
+* {ripl}[https://github.com/cldwalker/ripl]
+* {gem-man}[https://github.com/defunkt/gem-man]
+* {hirb}[https://github.com/cldwalker/hirb]
+* {ripl-multi_line}[https://github.com/janlelis/ripl-multi_line]
+* {ripl-auto_indent}[https://github.com/janlelis/ripl-auto_indent]
+* {ripl-short_errors}[https://github.com/janlelis/ripl-misc/blob/master/lib/ripl/short_errors.rb]
+* {ripl-color_error}[https://github.com/cldwalker/ripl-color_error]
+* {ripl-color_result}[https://github.com/janlelis/ripl-color_result]
+* {ripl-color_streams}[https://github.com/janlelis/ripl-color_streams]
+* {ripl-play}[https://github.com/cldwalker/ripl-play]
+* {ripl-commands}[https://github.com/cldwalker/ripl-commands]
+* {ripl-after_rc}[https://github.com/cldwalker/ripl-after_rc]
+* {ripl-profiles}[https://github.com/janlelis/profiles]
+
+
+=== Other interesting ripl plugins, but not included in ripltools
+
+The {ripl github page}[https://github.com/cldwalker/ripl] has a large list of available plugins. You can also search through rubygems with:
+
+  gem list -r ripl-.*
+
+== Copyright
+
+Copyright (c) 2010 Jan Lelis <http://code-needs-smileys.com> released under the MIT license.
+
+J-_-L
