@@ -1,2 +1,6 @@
+== 0.1.0 (2011-01-07)
+* Added ripl-rocket.
+* Updated gem dependencies.
+
 == 0.1.0
 * Initial release.

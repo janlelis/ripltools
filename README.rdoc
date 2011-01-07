@@ -1,6 +1,6 @@
 = ripltools
 
-This is a meta gem which installs some useful {ripl}[https://github.com/cldwalker/ripl] plugins for a nice-to-use general purpose _ripl_.
+This is a meta gem which installs some useful {ripl}[https://github.com/cldwalker/ripl] plugins for a nice-to-use, general purpose _ripl_.
 
 == Setup
 
@@ -18,7 +18,7 @@ You cannot modify the loaded plugins. If you want to change them, copy the sourc
 Alternatively, you can use ripltools to easily install the plugins, but require manually the ones you want.
 
 === Irbtools
-The {irbtools}[https://github.com/janlelis/irbtools] gem is compatible with _ripl_ and _ripltools_. Ripltools only includes _ripl_-specific gems, while _irbtools_ includes general "Ruby console features" (e.g. {interactive_editor}[https://github.com/jberkel/interactive_editor]).
+The {irbtools}[https://github.com/janlelis/irbtools] gem is compatible with _ripl_ and _ripltools_. _ripltools_ only includes _ripl_-specific gems, while _irbtools_ includes general "Ruby console features" (e.g. {interactive_editor}[https://github.com/jberkel/interactive_editor]).
 
 === Included gems
 
@@ -31,6 +31,7 @@ The {irbtools}[https://github.com/janlelis/irbtools] gem is compatible with _rip
 * {ripl-color_error}[https://github.com/cldwalker/ripl-color_error]
 * {ripl-color_result}[https://github.com/janlelis/ripl-color_result]
 * {ripl-color_streams}[https://github.com/janlelis/ripl-color_streams]
+* {ripl-rocket}[https://github.com/janlelis/ripl-rocket]
 * {ripl-play}[https://github.com/cldwalker/ripl-play]
 * {ripl-commands}[https://github.com/cldwalker/ripl-commands]
 * {ripl-after_rc}[https://github.com/cldwalker/ripl-after_rc]

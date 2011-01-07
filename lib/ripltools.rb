@@ -1,10 +1,10 @@
 require 'ripl'
 
 module Ripltools
-  VERSION = '0.1.0'
+  VERSION = '0.1.1'
 end
 
-libraries = %w[multi_line auto_indent short_errors color_error color_result color_streams commands after_rc hirb profiles]
+libraries = %w[multi_line auto_indent short_errors color_error color_result color_streams rocket commands after_rc hirb profiles]
 # btw, the rocket is coming soon ;)
 
 libraries.each{ |lib|
