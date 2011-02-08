@@ -46,6 +46,6 @@ The {ripl github page}[https://github.com/cldwalker/ripl] has a large list of av
 
 == Copyright
 
-Copyright (c) 2010 Jan Lelis <http://code-needs-smileys.com> released under the MIT license.
+Copyright (c) 2010-2011 Jan Lelis <http://code-needs-smileys.com> released under the MIT license.
 
 J-_-L
