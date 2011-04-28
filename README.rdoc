@@ -21,7 +21,6 @@ Alternatively, you can use ripltools to easily install the plugins, but require 
 The {irbtools}[https://github.com/janlelis/irbtools] gem is compatible with _ripl_ and _ripltools_. _ripltools_ only includes _ripl_-specific gems, while _irbtools_ includes general "Ruby console features" (e.g. {interactive_editor}[https://github.com/jberkel/interactive_editor]).
 
 === Included gems
-
 * {ripl}[https://github.com/cldwalker/ripl]
 * {gem-man}[https://github.com/defunkt/gem-man]
 * {hirb}[https://github.com/cldwalker/hirb]
@@ -31,12 +30,13 @@ The {irbtools}[https://github.com/janlelis/irbtools] gem is compatible with _rip
 * {ripl-color_error}[https://github.com/cldwalker/ripl-color_error]
 * {ripl-color_result}[https://github.com/janlelis/ripl-color_result]
 * {ripl-color_streams}[https://github.com/janlelis/ripl-color_streams]
-* {ripl-rocket}[https://github.com/janlelis/ripl-rocket]
 * {ripl-play}[https://github.com/cldwalker/ripl-play]
 * {ripl-commands}[https://github.com/cldwalker/ripl-commands]
 * {ripl-after_rc}[https://github.com/cldwalker/ripl-after_rc]
 * {ripl-profiles}[https://github.com/janlelis/profiles]
 
+==== Not included, anymore
+* {ripl-rocket}[https://github.com/janlelis/ripl-rocket]
 
 === Other interesting ripl plugins, but not included in ripltools
 

@@ -1,13 +1,16 @@
+== 0.1.4 (2011-04-28)
+* Version bumps (ripl 0.3.6, multi_line 0.3.0, profiles 0.2.0)
+
 == 0.1.3 (2011-03-28)
-* Removed ripl-rocket from ripltools.
-* Version bumps.
+* Remove ripl-rocket from ripltools.
+* Version bumps
 
 == 0.1.2 (2011-02-08)
-* Version bumps.
+* Version bumps
 
 == 0.1.1 (2011-01-07)
-* Added ripl-rocket.
-* Updated gem dependencies.
+* Add ripl-rocket
+* Version bumps
 
 == 0.1.0
-* Initial release.
+* Initial release

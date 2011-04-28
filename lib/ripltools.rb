@@ -1,7 +1,7 @@
 require 'ripl'
 
 module Ripltools
-  VERSION = '0.1.3'
+  VERSION = '0.1.4'
 end
 
 libraries = %w[multi_line auto_indent short_errors color_error color_result color_streams commands after_rc hirb profiles]
