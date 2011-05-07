@@ -33,7 +33,8 @@ The {irbtools}[https://github.com/janlelis/irbtools] gem is compatible with _rip
 * {ripl-play}[https://github.com/cldwalker/ripl-play]
 * {ripl-commands}[https://github.com/cldwalker/ripl-commands]
 * {ripl-after_rc}[https://github.com/cldwalker/ripl-after_rc]
-* {ripl-profiles}[https://github.com/janlelis/profiles]
+* {ripl-profiles}[https://github.com/janlelis/ripl-profiles]
+* {ripl-i18n}[https://github.com/cldwalker/ripl-i18n]
 
 ==== Not included, anymore
 * {ripl-rocket}[https://github.com/janlelis/ripl-rocket]
