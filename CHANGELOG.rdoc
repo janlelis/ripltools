@@ -1,3 +1,7 @@
+== 0.1.8 (2011-11-01)
+* Bump auto_indent
+* Readd i18n
+
 == 0.1.6 /  0.1.7 (2011-10-19)
 * Version bums 
 * Remove i18n (till it's compatible with ripl 0.5)
