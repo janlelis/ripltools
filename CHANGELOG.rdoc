@@ -1,3 +1,7 @@
+== 0.6.0 (2012-01-12)
+* Version bumps (ripl 0.6.0, gem-man 0.3.0, hirb 0.6.0, ripl-i18n 0.3.0, ripl-auto_indent 0.2.0)
+* New versioning scheme (minor version like ripl)
+
 == 0.1.8 (2011-11-01)
 * Bump auto_indent
 * Readd i18n
