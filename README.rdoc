@@ -1,6 +1,6 @@
 = ripltools
 
-This is a meta gem which installs some useful {ripl}[https://github.com/cldwalker/ripl] plugins for a nice-to-use, general purpose _ripl_.
+This is a meta gem that installs a base set of {ripl}[https://github.com/cldwalker/ripl] plugins for a nice-to-use, general purpose _ripl_.
 
 == Setup
 
@@ -47,6 +47,6 @@ The {ripl github page}[https://github.com/cldwalker/ripl] has a large list of av
 
 == Copyright
 
-Copyright (c) 2010-2011 Jan Lelis <http://code-needs-smileys.com> released under the MIT license.
+Copyright (c) 2010-2013 Jan Lelis <http://happycode.org> released under the MIT license.
 
 J-_-L
